@@ -1,7 +1,7 @@
-import { OptimizerLbfgs } from './js/optimizer-lbfgs.js';
-import { OptimizerAdam } from './js/optimizer-adam.js';
-import { OptimizerQQN } from './js/optimizer-qqn.js';
-import { WebXRViewer } from './js/webxr.js';
+import { OptimizerLbfgs } from './optimizer-lbfgs.js';
+import { OptimizerAdam } from './optimizer-adam.js';
+import { OptimizerQQN } from './optimizer-qqn.js';
+import { WebXRViewer } from './webxr.js';
 
 /**
  * Spherical Gram Entropy - Interactive Demo
